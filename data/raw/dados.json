@@ -1,0 +1,1285 @@
+[
+    {
+        "nome": "ALEX ANTONIO DE SOUZA",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "AGENTE DE TRANSITO",
+        "dataAdmissao": "01/08/2017",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Efetivo",
+        "rotina": "Antecipacao Decimo",
+        "descontos": [],
+        "proventos": [
+            {
+                "descricao": "ANTECIP GRATIFICACAO NATALINA",
+                "valor": 1844.68
+            },
+            {
+                "descricao": "GRAT POS GRADUAÇAO 20%",
+                "valor": 368.94
+            },
+            {
+                "descricao": "Adicional de Insalubridade",
+                "valor": 30.05
+            },
+            {
+                "descricao": "Dif Adicional de Insalubridade",
+                "valor": 10.02
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 973.87
+            },
+            {
+                "descricao": "DIF AUXILIO ALIMENTACAO",
+                "valor": 378.73
+            },
+            {
+                "descricao": "Adicional de Qualificacao Funcional",
+                "valor": 184.47
+            },
+            {
+                "descricao": "MEMBRO DA COMEX - CDS",
+                "valor": 617.76
+            },
+            {
+                "descricao": "DIF. MEMBRO DA COMEX - CDS",
+                "valor": 205.92
+            },
+            {
+                "descricao": "AUXILIO SAUDE CONDICIONAL",
+                "valor": 75.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEX ANTONIO DE SOUZA",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "AGENTE DE TRANSITO",
+        "dataAdmissao": "01/08/2017",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Efetivo",
+        "rotina": "Folha",
+        "descontos": [
+            {
+                "descricao": "OUTROS DESCONTOS",
+                "valor": 923.52
+            },
+            {
+                "descricao": "IPERON",
+                "valor": 671.46
+            },
+            {
+                "descricao": "IMPOSTO DE RENDA",
+                "valor": 886.01
+            }
+        ],
+        "proventos": [
+            {
+                "descricao": "VENCIMENTO",
+                "valor": 3689.35
+            },
+            {
+                "descricao": "GRAT POS GRADUAÇAO 20%",
+                "valor": 737.87
+            },
+            {
+                "descricao": "AJ. DE CUSTO MEMBRO DE EQUIPE (ACAVT)",
+                "valor": 2800.0
+            },
+            {
+                "descricao": "Adicional de Insalubridade",
+                "valor": 120.18
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 1947.73
+            },
+            {
+                "descricao": "Adicional de Qualificacao Funcional",
+                "valor": 368.94
+            },
+            {
+                "descricao": "MEMBRO DA COMEX - CDS",
+                "valor": 2471.04
+            },
+            {
+                "descricao": "AUXILIO SAUDE CONDICIONAL",
+                "valor": 150.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEX ARCE MARTINS",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "AGENTE DE TRANSITO OPERACIONAL",
+        "dataAdmissao": "25/02/2010",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Efetivo",
+        "rotina": "Antecipacao Decimo",
+        "descontos": [],
+        "proventos": [
+            {
+                "descricao": "ANTECIP GRATIFICACAO NATALINA",
+                "valor": 2176.75
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 973.87
+            },
+            {
+                "descricao": "DIF AUXILIO ALIMENTACAO",
+                "valor": 378.73
+            },
+            {
+                "descricao": "Adicional de Qualificacao Funcional",
+                "valor": 217.68
+            },
+            {
+                "descricao": "AUXILIO SAUDE",
+                "valor": 25.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEX ARCE MARTINS",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "AGENTE DE TRANSITO OPERACIONAL",
+        "dataAdmissao": "25/02/2010",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Efetivo",
+        "rotina": "Folha",
+        "descontos": [
+            {
+                "descricao": "OUTROS DESCONTOS",
+                "valor": 1072.05
+            },
+            {
+                "descricao": "IPERON",
+                "valor": 670.43
+            }
+        ],
+        "proventos": [
+            {
+                "descricao": "VENCIMENTO",
+                "valor": 4353.5
+            },
+            {
+                "descricao": "AUXILIO DESLOCAMENTO",
+                "valor": 200.0
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 1947.73
+            },
+            {
+                "descricao": "Adicional de Qualificacao Funcional",
+                "valor": 435.35
+            },
+            {
+                "descricao": "AUXILIO SAUDE",
+                "valor": 50.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEX CLEITON GOMES DA SILVA",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "AGENTE DE TRANSITO",
+        "dataAdmissao": "03/01/2012",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Efetivo",
+        "rotina": "Antecipacao Decimo",
+        "descontos": [],
+        "proventos": [
+            {
+                "descricao": "ANTECIP GRATIFICACAO NATALINA",
+                "valor": 2222.01
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 973.87
+            },
+            {
+                "descricao": "DIF AUXILIO ALIMENTACAO",
+                "valor": 378.73
+            },
+            {
+                "descricao": "Adicional de Qualificacao Funcional",
+                "valor": 222.2
+            },
+            {
+                "descricao": "AUXILIO SAUDE CONDICIONAL",
+                "valor": 75.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEX CLEITON GOMES DA SILVA",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "AGENTE DE TRANSITO",
+        "dataAdmissao": "03/01/2012",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Efetivo",
+        "rotina": "Folha",
+        "descontos": [
+            {
+                "descricao": "OUTROS DESCONTOS",
+                "valor": 1799.8
+            },
+            {
+                "descricao": "IPERON",
+                "valor": 684.37
+            }
+        ],
+        "proventos": [
+            {
+                "descricao": "VENCIMENTO",
+                "valor": 4444.01
+            },
+            {
+                "descricao": "AUXILIO DESLOCAMENTO",
+                "valor": 200.0
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 1947.73
+            },
+            {
+                "descricao": "Adicional de Qualificacao Funcional",
+                "valor": 444.4
+            },
+            {
+                "descricao": "AUXILIO SAUDE CONDICIONAL",
+                "valor": 150.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEX DE SOUZA SANTOS",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "ASSESSOR I",
+        "dataAdmissao": "06/04/2026",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Comissionado sem Vinculo",
+        "rotina": "Antecipacao Decimo",
+        "descontos": [],
+        "proventos": [
+            {
+                "descricao": "DIF DE VENC E REP DE CDS",
+                "valor": 91.67
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 324.62
+            },
+            {
+                "descricao": "DIF AUXILIO ALIMENTACAO",
+                "valor": 135.26
+            },
+            {
+                "descricao": "VENCIMENTO CDS-01",
+                "valor": 22.0
+            },
+            {
+                "descricao": "REPRESENTACAO CDS-01",
+                "valor": 198.0
+            },
+            {
+                "descricao": "AUXILIO SAUDE",
+                "valor": 8.33
+            },
+            {
+                "descricao": "AUXILIO SAUDE (Mes Anterior)",
+                "valor": 3.47
+            },
+            {
+                "descricao": "COMPLEMENTO SALARIO MINIMO (CONSTIT.)",
+                "valor": 50.17
+            }
+        ]
+    },
+    {
+        "nome": "ALEX DE SOUZA SANTOS",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "ASSESSOR I",
+        "dataAdmissao": "06/04/2026",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Comissionado sem Vinculo",
+        "rotina": "Folha",
+        "descontos": [
+            {
+                "descricao": "INSS",
+                "valor": 121.57
+            }
+        ],
+        "proventos": [
+            {
+                "descricao": "AUXILIO DESLOCAMENTO",
+                "valor": 200.0
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 1947.73
+            },
+            {
+                "descricao": "VENCIMENTO CDS-01",
+                "valor": 132.0
+            },
+            {
+                "descricao": "REPRESENTACAO CDS-01",
+                "valor": 1188.0
+            },
+            {
+                "descricao": "AUXILIO SAUDE",
+                "valor": 50.0
+            },
+            {
+                "descricao": "COMPLEMENTO SALARIO MINIMO (CONSTIT.)",
+                "valor": 301.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEX ISHIDA",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "ANA.EM TRANSITO/SISTEMA DE INFORMATICA",
+        "dataAdmissao": "29/04/2015",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "AFA - Efetivo",
+        "rotina": "Antecipacao Decimo",
+        "descontos": [],
+        "proventos": [
+            {
+                "descricao": "ANTECIP GRATIFICACAO NATALINA",
+                "valor": 3881.94
+            },
+            {
+                "descricao": "GRAT POS GRADUAÇAO 20%",
+                "valor": 768.61
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 973.87
+            },
+            {
+                "descricao": "DIF AUXILIO ALIMENTACAO",
+                "valor": 378.73
+            },
+            {
+                "descricao": "Adicional de Qualificacao Funcional",
+                "valor": 388.2
+            },
+            {
+                "descricao": "AUXILIO SAUDE",
+                "valor": 25.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEX ISHIDA",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "ANA.EM TRANSITO/SISTEMA DE INFORMATICA",
+        "dataAdmissao": "29/04/2015",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "AFA - Efetivo",
+        "rotina": "Folha",
+        "descontos": [
+            {
+                "descricao": "OUTROS DESCONTOS",
+                "valor": 155.28
+            },
+            {
+                "descricao": "IPERON",
+                "valor": 1413.02
+            },
+            {
+                "descricao": "IMPOSTO DE RENDA",
+                "valor": 1478.28
+            }
+        ],
+        "proventos": [
+            {
+                "descricao": "VENCIMENTO",
+                "valor": 7763.88
+            },
+            {
+                "descricao": "GRAT POS GRADUAÇAO 20%",
+                "valor": 1552.78
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 1947.73
+            },
+            {
+                "descricao": "Adicional de Qualificacao Funcional",
+                "valor": 776.39
+            },
+            {
+                "descricao": "AUXILIO SAUDE",
+                "valor": 50.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEX JUNIOR CRISPIN DIAS",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "CHEFE CIRETRAN 3 CATEG",
+        "dataAdmissao": "19/04/2023",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Comissionado sem Vinculo",
+        "rotina": "Antecipacao Decimo",
+        "descontos": [],
+        "proventos": [
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 973.87
+            },
+            {
+                "descricao": "DIF AUXILIO ALIMENTACAO",
+                "valor": 378.73
+            },
+            {
+                "descricao": "VENCIMENTO CDS-03",
+                "valor": 109.83
+            },
+            {
+                "descricao": "REPRESENTACAO CDS-03",
+                "valor": 988.42
+            },
+            {
+                "descricao": "AUXILIO SAUDE",
+                "valor": 25.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEX JUNIOR CRISPIN DIAS",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "CHEFE CIRETRAN 3 CATEG",
+        "dataAdmissao": "19/04/2023",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Comissionado sem Vinculo",
+        "rotina": "Folha",
+        "descontos": [
+            {
+                "descricao": "INSS",
+                "valor": 173.36
+            }
+        ],
+        "proventos": [
+            {
+                "descricao": "AJUDA DE CUSTO CH. DE EQUIPE (ACAVT)",
+                "valor": 500.0
+            },
+            {
+                "descricao": "AJ. DE CUSTO MEMBRO DE EQUIPE (ACAVT)",
+                "valor": 2100.0
+            },
+            {
+                "descricao": "AUXILIO DESLOCAMENTO",
+                "valor": 200.0
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 1947.73
+            },
+            {
+                "descricao": "VENCIMENTO CDS-03",
+                "valor": 219.65
+            },
+            {
+                "descricao": "REPRESENTACAO CDS-03",
+                "valor": 1976.83
+            },
+            {
+                "descricao": "AUXILIO SAUDE",
+                "valor": 50.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEX LABORDA DE OLIVEIRA",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "AGENTE DE TRANSITO",
+        "dataAdmissao": "23/12/2009",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Efetivo",
+        "rotina": "Antecipacao Decimo",
+        "descontos": [],
+        "proventos": [
+            {
+                "descricao": "DIF REPRESENTACAO CDS",
+                "valor": 171.6
+            },
+            {
+                "descricao": "ANTECIP GRATIFICACAO NATALINA",
+                "valor": 2364.22
+            },
+            {
+                "descricao": "GRAT POS GRADUAÇAO 20%",
+                "valor": 472.85
+            },
+            {
+                "descricao": "SUBSTITUICAO",
+                "valor": 961.55
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 973.87
+            },
+            {
+                "descricao": "DIF AUXILIO ALIMENTACAO",
+                "valor": 378.73
+            },
+            {
+                "descricao": "Adicional de Qualificacao Funcional",
+                "valor": 236.42
+            },
+            {
+                "descricao": "REPRESENTACAO CDS-04",
+                "valor": 411.84
+            },
+            {
+                "descricao": "AUXILIO SAUDE CONDICIONAL",
+                "valor": 75.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEX LABORDA DE OLIVEIRA",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "AGENTE DE TRANSITO",
+        "dataAdmissao": "23/12/2009",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Efetivo",
+        "rotina": "Folha",
+        "descontos": [
+            {
+                "descricao": "OUTROS DESCONTOS",
+                "valor": 1072.53
+            },
+            {
+                "descricao": "IPERON",
+                "valor": 860.57
+            },
+            {
+                "descricao": "IMPOSTO DE RENDA",
+                "valor": 2206.84
+            }
+        ],
+        "proventos": [
+            {
+                "descricao": "VENCIMENTO",
+                "valor": 4728.43
+            },
+            {
+                "descricao": "GRAT POS GRADUAÇAO 20%",
+                "valor": 945.69
+            },
+            {
+                "descricao": "AJ. DE CUSTO MEMBRO DE EQUIPE (ACAVT)",
+                "valor": 2100.0
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 1947.73
+            },
+            {
+                "descricao": "Adicional de Qualificacao Funcional",
+                "valor": 472.84
+            },
+            {
+                "descricao": "REPRESENTACAO CDS-04",
+                "valor": 2471.04
+            },
+            {
+                "descricao": "ADICIONAL DE 1/3 FERIAS",
+                "valor": 3571.91
+            },
+            {
+                "descricao": "AUXILIO SAUDE CONDICIONAL",
+                "valor": 150.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEX LACERDA RIBEIRO",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "AGENTE DE TRANSITO OPERACIONAL",
+        "dataAdmissao": "27/11/2009",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Efetivo",
+        "rotina": "Antecipacao Decimo",
+        "descontos": [],
+        "proventos": [
+            {
+                "descricao": "ANTECIP GRATIFICACAO NATALINA",
+                "valor": 2176.75
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 973.87
+            },
+            {
+                "descricao": "DIF AUXILIO ALIMENTACAO",
+                "valor": 378.73
+            },
+            {
+                "descricao": "Adicional de Qualificacao Funcional",
+                "valor": 174.14
+            },
+            {
+                "descricao": "AUXILIO SAUDE CONDICIONAL",
+                "valor": 75.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEX LACERDA RIBEIRO",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "AGENTE DE TRANSITO OPERACIONAL",
+        "dataAdmissao": "27/11/2009",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Efetivo",
+        "rotina": "Folha",
+        "descontos": [
+            {
+                "descricao": "OUTROS DESCONTOS",
+                "valor": 1534.54
+            },
+            {
+                "descricao": "IPERON",
+                "valor": 658.24
+            }
+        ],
+        "proventos": [
+            {
+                "descricao": "VENCIMENTO",
+                "valor": 4353.5
+            },
+            {
+                "descricao": "AJ. DE CUSTO MEMBRO DE EQUIPE (ACAVT)",
+                "valor": 2100.0
+            },
+            {
+                "descricao": "AUXILIO DESLOCAMENTO",
+                "valor": 200.0
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 1947.73
+            },
+            {
+                "descricao": "Adicional de Qualificacao Funcional",
+                "valor": 348.28
+            },
+            {
+                "descricao": "AUXILIO SAUDE CONDICIONAL",
+                "valor": 150.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEX SILVA DOS SANTOS",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "CHEFE CIRETRAN 3 CATEG",
+        "dataAdmissao": "18/04/2023",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Comissionado sem Vinculo",
+        "rotina": "Antecipacao Decimo",
+        "descontos": [],
+        "proventos": [
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 973.87
+            },
+            {
+                "descricao": "DIF AUXILIO ALIMENTACAO",
+                "valor": 378.73
+            },
+            {
+                "descricao": "VENCIMENTO CDS-03",
+                "valor": 109.83
+            },
+            {
+                "descricao": "REPRESENTACAO CDS-03",
+                "valor": 988.42
+            },
+            {
+                "descricao": "AUXILIO SAUDE CONDICIONAL",
+                "valor": 75.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEX SILVA DOS SANTOS",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "CHEFE CIRETRAN 3 CATEG",
+        "dataAdmissao": "18/04/2023",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Comissionado sem Vinculo",
+        "rotina": "Folha",
+        "descontos": [
+            {
+                "descricao": "INSS",
+                "valor": 173.36
+            }
+        ],
+        "proventos": [
+            {
+                "descricao": "AJ. DE CUSTO MEMBRO DE EQUIPE (ACAVT)",
+                "valor": 2450.0
+            },
+            {
+                "descricao": "AUXILIO DESLOCAMENTO",
+                "valor": 200.0
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 1947.73
+            },
+            {
+                "descricao": "VENCIMENTO CDS-03",
+                "valor": 219.65
+            },
+            {
+                "descricao": "REPRESENTACAO CDS-03",
+                "valor": 1976.83
+            },
+            {
+                "descricao": "AUXILIO SAUDE CONDICIONAL",
+                "valor": 150.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEXANDRE ALENCAR DE MENEZES",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "TEC.ADM. NIVEL SUPERIOR",
+        "dataAdmissao": "01/05/2025",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Cedido CLT - Outro órgão S/ CDS",
+        "rotina": "Antecipacao Decimo",
+        "descontos": [
+            {
+                "descricao": "OUTROS DESCONTOS",
+                "valor": 0.0
+            }
+        ],
+        "proventos": [
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 973.87
+            },
+            {
+                "descricao": "DIF AUXILIO ALIMENTACAO",
+                "valor": 378.73
+            }
+        ]
+    },
+    {
+        "nome": "ALEXANDRE ALENCAR DE MENEZES",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "TEC.ADM. NIVEL SUPERIOR",
+        "dataAdmissao": "01/05/2025",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Cedido CLT - Outro órgão S/ CDS",
+        "rotina": "Folha",
+        "descontos": [],
+        "proventos": [
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 1947.73
+            }
+        ]
+    },
+    {
+        "nome": "ALEXANDRE DA SILVA",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "CHEFE DE DIVISAO DA CIRETRAN - 1º CATG",
+        "dataAdmissao": "27/03/2025",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Comissionado sem Vinculo",
+        "rotina": "Antecipacao Decimo",
+        "descontos": [],
+        "proventos": [
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 973.87
+            },
+            {
+                "descricao": "DIF AUXILIO ALIMENTACAO",
+                "valor": 378.73
+            },
+            {
+                "descricao": "VENCIMENTO CDS-02",
+                "valor": 85.8
+            },
+            {
+                "descricao": "REPRESENTACAO CDS-02",
+                "valor": 772.2
+            },
+            {
+                "descricao": "AUXILIO SAUDE",
+                "valor": 25.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEXANDRE DA SILVA",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "CHEFE DE DIVISAO DA CIRETRAN - 1º CATG",
+        "dataAdmissao": "27/03/2025",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Comissionado sem Vinculo",
+        "rotina": "Folha",
+        "descontos": [
+            {
+                "descricao": "INSS",
+                "valor": 130.12
+            }
+        ],
+        "proventos": [
+            {
+                "descricao": "AJ. DE CUSTO MEMBRO DE EQUIPE (ACAVT)",
+                "valor": 2800.0
+            },
+            {
+                "descricao": "AUXILIO DESLOCAMENTO",
+                "valor": 200.0
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 1947.73
+            },
+            {
+                "descricao": "VENCIMENTO CDS-02",
+                "valor": 171.6
+            },
+            {
+                "descricao": "REPRESENTACAO CDS-02",
+                "valor": 1544.4
+            },
+            {
+                "descricao": "AUXILIO SAUDE",
+                "valor": 50.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEXANDRE LOPES MACHADO",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "ANALISTA EM TRANSITO/CONTADOR",
+        "dataAdmissao": "18/08/2009",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Efetivo",
+        "rotina": "Antecipacao Decimo",
+        "descontos": [],
+        "proventos": [
+            {
+                "descricao": "ANTECIP GRATIFICACAO NATALINA",
+                "valor": 4676.0
+            },
+            {
+                "descricao": "GRAT POS GRADUAÇAO 20%",
+                "valor": 935.2
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 973.87
+            },
+            {
+                "descricao": "DIF AUXILIO ALIMENTACAO",
+                "valor": 378.73
+            },
+            {
+                "descricao": "Adicional de Qualificacao Funcional",
+                "valor": 467.6
+            },
+            {
+                "descricao": "REPRESENTACAO CDS-10",
+                "valor": 3237.1
+            },
+            {
+                "descricao": "AUXILIO SAUDE CONDICIONAL",
+                "valor": 75.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEXANDRE LOPES MACHADO",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "ANALISTA EM TRANSITO/CONTADOR",
+        "dataAdmissao": "18/08/2009",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Efetivo",
+        "rotina": "Folha",
+        "descontos": [
+            {
+                "descricao": "OUTROS DESCONTOS",
+                "valor": 948.42
+            },
+            {
+                "descricao": "IPERON",
+                "valor": 1702.06
+            },
+            {
+                "descricao": "IMPOSTO DE RENDA",
+                "valor": 3746.95
+            }
+        ],
+        "proventos": [
+            {
+                "descricao": "VENCIMENTO",
+                "valor": 9351.99
+            },
+            {
+                "descricao": "GRAT POS GRADUAÇAO 20%",
+                "valor": 1870.4
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 1947.73
+            },
+            {
+                "descricao": "Adicional de Qualificacao Funcional",
+                "valor": 935.2
+            },
+            {
+                "descricao": "REPRESENTACAO CDS-10",
+                "valor": 6474.2
+            },
+            {
+                "descricao": "AUXILIO SAUDE CONDICIONAL",
+                "valor": 150.0
+            }
+        ]
+    },
+    {
+        "nome": "ALEXANDRE MARCIEL SOUZA DO NASCIMENTO",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "Tecnico Educacional Nivel 2",
+        "dataAdmissao": "01/04/2025",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Efetivo",
+        "rotina": "Antecipacao Decimo",
+        "descontos": [],
+        "proventos": [
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 973.87
+            },
+            {
+                "descricao": "DIF AUXILIO ALIMENTACAO",
+                "valor": 378.73
+            }
+        ]
+    },
+    {
+        "nome": "ALEXANDRE MARCIEL SOUZA DO NASCIMENTO",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "Tecnico Educacional Nivel 2",
+        "dataAdmissao": "01/04/2025",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Efetivo",
+        "rotina": "Folha",
+        "descontos": [],
+        "proventos": [
+            {
+                "descricao": "AJ. DE CUSTO MEMBRO DE EQUIPE (ACAVT)",
+                "valor": 1050.0
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 1947.73
+            }
+        ]
+    },
+    {
+        "nome": "JOAO ALEX DE ALENCAR RIBEIRO",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "MEMBRO DE COMISSOES DE EXAMES TEORICOS E PRATIVOS",
+        "dataAdmissao": "01/03/2019",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Comissionado sem Vinculo",
+        "rotina": "Antecipacao Decimo",
+        "descontos": [],
+        "proventos": [
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 973.87
+            },
+            {
+                "descricao": "DIF AUXILIO ALIMENTACAO",
+                "valor": 378.73
+            },
+            {
+                "descricao": "MEMBRO DA COMEX - CDS",
+                "valor": 1372.8
+            },
+            {
+                "descricao": "AUXILIO SAUDE",
+                "valor": 25.0
+            }
+        ]
+    },
+    {
+        "nome": "JOAO ALEX DE ALENCAR RIBEIRO",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "MEMBRO DE COMISSOES DE EXAMES TEORICOS E PRATIVOS",
+        "dataAdmissao": "01/03/2019",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Comissionado sem Vinculo",
+        "rotina": "Folha",
+        "descontos": [
+            {
+                "descricao": "INSS",
+                "valor": 222.78
+            }
+        ],
+        "proventos": [
+            {
+                "descricao": "AUXILIO DESLOCAMENTO",
+                "valor": 200.0
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 1947.73
+            },
+            {
+                "descricao": "MEMBRO DA COMEX - CDS",
+                "valor": 2745.6
+            },
+            {
+                "descricao": "AUXILIO SAUDE",
+                "valor": 50.0
+            }
+        ]
+    },
+    {
+        "nome": "JORGE LUIS DE SOUZA ALEXANDRE",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "AGENTE DE TRANSITO/TECNICO ADMINISTRATIVO",
+        "dataAdmissao": "28/12/2015",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "AFA - Efetivo",
+        "rotina": "Antecipacao Decimo",
+        "descontos": [],
+        "proventos": [
+            {
+                "descricao": "ANTECIP GRATIFICACAO NATALINA",
+                "valor": 2207.84
+            },
+            {
+                "descricao": "GRAT POS GRADUAÇAO 20%",
+                "valor": 441.57
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 973.87
+            },
+            {
+                "descricao": "DIF AUXILIO ALIMENTACAO",
+                "valor": 378.73
+            },
+            {
+                "descricao": "Adicional de Qualificacao Funcional",
+                "valor": 220.79
+            },
+            {
+                "descricao": "Dif. Adicional de Qualificacao Funcional",
+                "valor": 4.35
+            },
+            {
+                "descricao": "AUXILIO SAUDE",
+                "valor": 8.33
+            },
+            {
+                "descricao": "AUXILIO SAUDE CONDICIONAL",
+                "valor": 50.0
+            }
+        ]
+    },
+    {
+        "nome": "JORGE LUIS DE SOUZA ALEXANDRE",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "AGENTE DE TRANSITO/TECNICO ADMINISTRATIVO",
+        "dataAdmissao": "28/12/2015",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "AFA - Efetivo",
+        "rotina": "Folha",
+        "descontos": [
+            {
+                "descricao": "OUTROS DESCONTOS",
+                "valor": 1495.28
+            },
+            {
+                "descricao": "IPERON",
+                "valor": 803.65
+            },
+            {
+                "descricao": "IMPOSTO DE RENDA",
+                "valor": 182.41
+            }
+        ],
+        "proventos": [
+            {
+                "descricao": "VENCIMENTO",
+                "valor": 4415.67
+            },
+            {
+                "descricao": "GRAT POS GRADUAÇAO 20%",
+                "valor": 883.13
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 1947.73
+            },
+            {
+                "descricao": "Adicional de Qualificacao Funcional",
+                "valor": 441.57
+            },
+            {
+                "descricao": "AUXILIO SAUDE CONDICIONAL",
+                "valor": 150.0
+            }
+        ]
+    },
+    {
+        "nome": "ROZENILDA ALEXANDRE CUSTODIO ALMEIDA",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "CHEFE CIRETRAN 3 CATEG",
+        "dataAdmissao": "29/01/2025",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Comissionado sem Vinculo",
+        "rotina": "Antecipacao Decimo",
+        "descontos": [],
+        "proventos": [
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 973.87
+            },
+            {
+                "descricao": "DIF AUXILIO ALIMENTACAO",
+                "valor": 378.73
+            },
+            {
+                "descricao": "VENCIMENTO CDS-03",
+                "valor": 109.83
+            },
+            {
+                "descricao": "REPRESENTACAO CDS-03",
+                "valor": 988.42
+            },
+            {
+                "descricao": "AUXILIO SAUDE",
+                "valor": 25.0
+            }
+        ]
+    },
+    {
+        "nome": "ROZENILDA ALEXANDRE CUSTODIO ALMEIDA",
+        "lotacao": "DETRAN - DEPARTAMENTO DE TRANSITO",
+        "cargo": "CHEFE CIRETRAN 3 CATEG",
+        "dataAdmissao": "29/01/2025",
+        "dataDesligamento": null,
+        "cargaSemanal": 40.0,
+        "dataInativo": "",
+        "situacaoFuncional": "ATV - Comissionado sem Vinculo",
+        "rotina": "Folha",
+        "descontos": [
+            {
+                "descricao": "INSS",
+                "valor": 173.36
+            }
+        ],
+        "proventos": [
+            {
+                "descricao": "AJ. DE CUSTO MEMBRO DE EQUIPE (ACAVT)",
+                "valor": 1050.0
+            },
+            {
+                "descricao": "AUXILIO DESLOCAMENTO",
+                "valor": 200.0
+            },
+            {
+                "descricao": "AUXILIO ALIMENTACAO - DETRAN",
+                "valor": 1947.73
+            },
+            {
+                "descricao": "VENCIMENTO CDS-03",
+                "valor": 219.65
+            },
+            {
+                "descricao": "REPRESENTACAO CDS-03",
+                "valor": 1976.83
+            },
+            {
+                "descricao": "AUXILIO SAUDE",
+                "valor": 50.0
+            }
+        ]
+    }
+]
